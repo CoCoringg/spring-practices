@@ -14,7 +14,7 @@
 	<br><br>
 	
 	<label>파일:</label>
-	<input type="file" name="file1">
+	<input type="file" name="file">
 	<br><br>
 	
 	<input type="submit" value="upload">
